@@ -8,5 +8,5 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 - **Languages**: JavaScript, Java, HTML, CSS
 - **Frameworks**:  Spring Boot, 
 - **Databases**: MySQL
-- **Tools**:  VS Code, Spring boot Suite, Eclipse
+- **Tools**:  VS Code, Spring Tool Suite, Eclipse IDE
  
